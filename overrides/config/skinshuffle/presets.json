@@ -1,0 +1,22 @@
+{
+  "chosenPreset": 1,
+  "apiPreset": -1,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "972020724",
+        "model": "slim",
+        "type": "skinshuffle:config"
+      },
+      "name": "Er0t1cBananaz"
+    },
+    {
+      "skin": {
+        "skin_name": "259679897",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Black man"
+    }
+  ]
+}

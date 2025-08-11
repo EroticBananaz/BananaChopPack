@@ -1,0 +1,15 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+noItemSplatterOnDeath = true
+noDeathItemDespawn = true
+tryItemLavaSaveOnDeath = false
+tryItemVoidSaveOnDeath = true
+explosionResistantItems = true
+playerDropMoreXpOnDeath = true
+droppedExperiencePercent = 80
+keepArmorOnDeath = false
+armorDropList = [  ]
+keepHotbarOnDeath = true
+hotbarDropList = [  ]
+keepAccessories = "NONE"
+accessoryKeepList = [  ]
